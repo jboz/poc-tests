@@ -1,6 +1,7 @@
 [POC Tests](http://twitter.github.com/bootstrap)
 ===========
 
+POC around testing in java application
 POC autour des tests dans leur globalité :
  - tests unitaires
  - tests d'intégration
@@ -9,8 +10,8 @@ POC autour des tests dans leur globalité :
  + **JUnit**
  + **DBUnit**
  + **Mockito**  
- + TestNG ?
- + couplage JUnit testNG ?
+TestNG ?
+couplage JUnit testNG ?
  + **Arquillian**
  + **JSFUnit**
  + **JMeter**
