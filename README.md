@@ -10,8 +10,8 @@ POC autour des tests dans leur globalité :
  + **JUnit**
  + **DBUnit**
  + **Mockito**  
-TestNG ?
-couplage JUnit testNG ?
+ + TestNG ?
+ + couplage JUnit testNG ?
  + **Arquillian**
  + **JSFUnit**
  + **JMeter**
